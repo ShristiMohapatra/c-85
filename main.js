@@ -10,7 +10,7 @@ rover_height=90;
 
 background_image = nasa_mars_images_array[random_number];
 console.log("background_image = " + background_image);
-rover_image="rover.jpg";
+rover_image="rover.png";
 
 rover_x=10;
 rover_y=10;
